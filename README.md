@@ -6,7 +6,7 @@ A [Claude Code](https://claude.ai/code) skill that reads RSS/Atom feeds from OPM
 
 1. Clone this repo into your project or Claude Code skills directory:
    ```bash
-   git clone https://github.com/peyterho-codes/claude-rss-reader.git
+   git clone https://github.com/sediamembantu/claude-rss-reader.git
    ```
 
 2. Install dependencies:
